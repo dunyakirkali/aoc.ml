@@ -15,7 +15,6 @@
           packages = with pkgs; [
             ocaml
             dune_3
-            opam
             ocamlPackages.ocaml-lsp
             ocamlPackages.ocamlformat
             ocamlPackages.utop
