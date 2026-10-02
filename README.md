@@ -10,6 +10,8 @@ nix develop
 
 This drops you into a shell with `ocaml`, `dune`, `opam`, `ocaml-lsp`, `ocamlformat`, and `utop`.
 
+If you have `direnv` set up (it is, via nix-direnv), just `cd` into this repo and run `direnv allow` once — the shell loads automatically from then on.
+
 ## Usage
 
 Each year is its own dune project:

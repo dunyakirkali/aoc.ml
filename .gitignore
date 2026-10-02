@@ -1,5 +1,6 @@
 _build/
 .direnv/
+.envrc.local
 result
 result-*
 *.install
